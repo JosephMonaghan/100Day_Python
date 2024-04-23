@@ -2,8 +2,11 @@ from turtle import Turtle, Screen
 import random
 
 timmy = Turtle()
-timmy.shape("turtle")
-timmy.color("black", "red")
+# timmy.shape("turtle")
+timmy.ht()
+timmy.width(5)
+timmy.speed(10)
+#timmy.color("black", "red")
 
 #timmy.circle(100)
 
@@ -34,23 +37,32 @@ def draw_shape(target, size, num_sides=4, dash_state=False):
         target.left(angle)
 
 
-
+def get_random_color():
+    """Returns random color as rgb triplet"""
+    color = []
+    for _ in range(3):
+        color.append(random.randint(0, 200) / 255)
+    return color
 
 #draw_square(timmy, 100,7)
 # draw_square(timmy,-200,dash_state=True)
 
 
-for i in range(2,10):
-    color = []
-    for _ in range(3):
-        color.append(random.randint(0, 200)/255)
-    timmy.pencolor((color))
-    if i % 2 == 0:
-        draw_shape(timmy, 100, i + 1, True)
-    else:
-        draw_shape(timmy,100,i+1,False)
 
 
+# for i in range(2,10):
+#     timmy.pencolor((get_random_color()))
+#     if i % 2 == 0:
+#         draw_shape(timmy, 100, i + 1, False)
+#     else:
+#         draw_shape(timmy,100,i+1,False)
+
+
+for i in range(1000):
+    timmy.pencolor((get_random_color()))
+    num_turns = random.randint(0, 3)
+    timmy.left(90*num_turns)
+    timmy.forward(15)
 
 
 
