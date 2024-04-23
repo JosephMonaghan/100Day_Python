@@ -5,7 +5,7 @@ timmy = Turtle()
 # timmy.shape("turtle")
 timmy.ht()
 timmy.width(5)
-timmy.speed(10)
+timmy.speed(0)
 #timmy.color("black", "red")
 
 #timmy.circle(100)
@@ -49,7 +49,7 @@ def get_random_color():
 
 
 
-
+##Polygon shapes
 # for i in range(2,10):
 #     timmy.pencolor((get_random_color()))
 #     if i % 2 == 0:
@@ -58,14 +58,28 @@ def get_random_color():
 #         draw_shape(timmy,100,i+1,False)
 
 
-for i in range(1000):
-    timmy.pencolor((get_random_color()))
-    num_turns = random.randint(0, 3)
-    timmy.left(90*num_turns)
-    timmy.forward(15)
+##Random walk
+# for i in range(1000):
+#     timmy.pencolor((get_random_color()))
+#     num_turns = random.randint(0, 3)
+#     timmy.left(90*num_turns)
+#     timmy.forward(15)
+
+# #Spirograph
 
 
+def draw_spirograph(angle):
+    num_cycles = 1
+    while num_cycles*360 % angle != 0:
+        num_cycles += 1
+    req_iters=int(num_cycles*360 / angle)
 
+    for i in range(req_iters):
+        timmy.pencolor(get_random_color())
+        timmy.left(angle)
+        timmy.circle(100)
+
+draw_spirograph(10)
 
 screen=Screen()
 screen.exitonclick()
