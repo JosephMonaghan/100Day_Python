@@ -13,8 +13,17 @@ def fwd():
     cursor.forward(10)
 
 def back():
-    cursor.backward(10)
+    cursor.forward(-10)
 
 def clear_screen():
-    screen.clearscreen()
-    cursor.home()
+    cursor.reset()
+
+screen.listen()
+screen.onkey(key="w",fun=fwd)
+screen.onkey(key="s",fun=back)
+screen.onkey(key="a",fun=turn_left)
+screen.onkey(key="d",fun=turn_right)
+screen.onkey(key="c",fun=clear_screen)
+
+
+screen.exitonclick()
