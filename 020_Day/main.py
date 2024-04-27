@@ -1,4 +1,5 @@
 from turtle import Turtle, Screen
+import time
 
 INITIAL_LENGTH=3
 INITIAL_X=0
@@ -10,6 +11,9 @@ screen=Screen()
 screen.setup(width=600,height=600)
 screen.bgcolor("black")
 screen.title("Snake Game v1")
+screen.tracer(False)
+screen.listen()
+
 
 my_snake=[]
 def start_up():
@@ -22,57 +26,51 @@ def start_up():
         new_seg.setpos(INITIAL_X - i*20,INITIAL_Y)
         new_seg.shape('square')
         new_seg.color('white')
-        new_seg.speed('fast')
+        new_seg.speed(5)
         new_seg.showturtle()
         my_snake.append(new_seg)
+        screen.update()
 
 def go_north():
     global trajectory
     trajectory='north'
+    my_snake[0].setheading(90)
 
 def go_south():
     global trajectory
     trajectory='south'
+    my_snake[0].setheading(270)
 
 def go_west():
     global trajectory
     trajectory='west'
+    my_snake[0].setheading(0)
 
 def go_east():
     global trajectory
     trajectory='east'
+    my_snake[0].setheading(180)
 
 start_up()
 snake_length=INITIAL_LENGTH
 trajectory="west"
 
+screen.onkeypress(key="w",fun=go_north)
+screen.onkeypress(key="a",fun=go_east)
+screen.onkeypress(key="s",fun=go_south)
+screen.onkeypress(key="d",fun=go_west)
+
 game_is_on=True
 while game_is_on:
-    new_seg=Turtle(shape='square',visible=False)
-    new_seg.speed(0)
-    new_seg.pu()
-    new_seg.color('white')
-    head_pos=my_snake[0].pos()
-    if trajectory == "west":
-        new_seg.setpos(head_pos[0] + 20,head_pos[1])
-    elif trajectory == "east":
-        new_seg.setpos(head_pos[0] - 20, head_pos[1])
-    elif trajectory == "north":
-        new_seg.setpos(head_pos[0], head_pos[1]+20)
-    elif trajectory == "south":
-        new_seg.setpos(head_pos[0], head_pos[1]-20)
+    replace_pos=my_snake[0].pos()
+    my_snake[0].forward(20)
+    for seg in range(1,len(my_snake)):
+        tmp=my_snake[seg].pos()
+        my_snake[seg].setpos(replace_pos)
+        replace_pos=tmp
+    time.sleep(0.1)
+    screen.update()
     
-    new_seg.showturtle()
-    my_snake.insert(0,new_seg)
-    while len(my_snake) > snake_length:
-        my_snake.pop(-1)
-
-
-
-
-
-
-
 
 
 
