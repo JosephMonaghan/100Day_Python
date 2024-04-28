@@ -8,7 +8,7 @@ FONT='courier'
 class EndGame(Turtle):
     def __init__(self):
         super().__init__()
-        self.color("white")
+        self.color("red")
         self.ht()
 
 
