@@ -1,7 +1,7 @@
 from turtle import Turtle
 import random
 
-POSSIBLE_COORDINATES=range(-280,280,20)
+POSSIBLE_COORDINATES=range(-260,260,20)
 
 class Food(Turtle):
     def __init__(self):
@@ -9,15 +9,15 @@ class Food(Turtle):
         self.shape('square')
         self.color('blue')
         self.pu()
+        self.shapesize(stretch_len=0.5,stretch_wid=0.5)
         self.speed('fastest')
         rd_coords=[random.choice(POSSIBLE_COORDINATES), random.choice(POSSIBLE_COORDINATES)]
         self.setpos(rd_coords)
 
-    def am_i_eaten(self,headpos):
-        if self.pos() == headpos:
-            rd_coords=[random.choice(POSSIBLE_COORDINATES), random.choice(POSSIBLE_COORDINATES)]
-            self.setpos(rd_coords)
-            return True
+    def relocate(self):
+        rd_coords=[random.choice(POSSIBLE_COORDINATES), random.choice(POSSIBLE_COORDINATES)]
+        self.setpos(rd_coords)
+
 
 
 
