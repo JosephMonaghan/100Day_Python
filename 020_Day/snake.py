@@ -23,15 +23,19 @@ class Snake:
             replace_pos=tmp
     
     def up(self):
-        self.seg_list[0].setheading(90)
+        if self.seg_list[0].heading() !=270:
+            self.seg_list[0].setheading(90)
 
     def left(self):
-        self.seg_list[0].setheading(180)
+        if self.seg_list[0].heading() !=0:
+            self.seg_list[0].setheading(180)
     
     def down(self):
-        self.seg_list[0].setheading(270)
+        if self.seg_list[0].heading() !=90:
+            self.seg_list[0].setheading(270)
 
     def right(self):
-        self.seg_list[0].setheading(0)
+        if self.seg_list[0].heading() !=180:
+            self.seg_list[0].setheading(0)
 
 
