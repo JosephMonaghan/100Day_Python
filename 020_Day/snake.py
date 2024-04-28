@@ -3,6 +3,7 @@ from turtle import Turtle
 class Snake:
     def __init__(self, initial_length=3, init_y=0, init_x=0):
         self.seg_list=[]
+        self.length=3
         for i in range(initial_length):
             new_seg=Turtle(visible=False)
             new_seg.speed(0)
