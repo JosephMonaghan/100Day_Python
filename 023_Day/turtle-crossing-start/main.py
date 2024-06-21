@@ -31,6 +31,7 @@ while game_is_on:
     is_collided=car_manager.check_collisions(player)
     if is_collided:
         game_is_on=False
+        scoreboard.game_over()
     screen.update()
 
 screen.exitonclick()
