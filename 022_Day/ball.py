@@ -10,6 +10,7 @@ class Ball(Turtle):
         self.pu()
         self.x_speed=10
         self.y_speed=10
+        self.rally=0
         self.x_cooldown=0
         
     def move(self):
@@ -25,8 +26,15 @@ class Ball(Turtle):
         self.y_speed *= -1
     
     def bounce_x(self):
+        self.rally+=1
         self.x_speed *=-1
         self.x_cooldown=3
+
+    def reset_ball(self):
+        self.x_speed*=-1
+        self.rally=0
+        self.y_speed*=-1
+        self.setpos(0,0)
 
 
 
