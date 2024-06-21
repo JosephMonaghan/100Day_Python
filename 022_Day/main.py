@@ -1,5 +1,7 @@
 from turtle import Screen
-from turtle import Turtle
+from paddle import Paddle
+from ball import Ball
+import time
 
 screen=Screen()
 screen.setup(width=800,height=600)
@@ -7,36 +9,32 @@ screen.bgcolor("black")
 screen.title("Pong v1")
 screen.tracer(0)
 
-right_paddle=Turtle()
-right_paddle.speed(10)
-right_paddle.color('white')
-right_paddle.shape('square')
-right_paddle.pu()
-right_paddle.resizemode('user')
-right_paddle.turtlesize(stretch_wid=5,stretch_len=1)
-right_paddle.setpos(x=350, y=0)
-
-
-def go_up():
-    global right_paddle
-    cur_pos=right_paddle.pos()
-    new_y=cur_pos[1]+20
-    right_paddle.goto(cur_pos[0],new_y)
-
-def go_down():
-    global right_paddle
-    cur_pos=right_paddle.pos()
-    new_y=cur_pos[1]-20
-    right_paddle.goto(cur_pos[0],new_y)
+right_paddle=Paddle([350, 0])
+left_paddle=Paddle([-350, 0])
+active_ball=Ball()
 
 
 
 screen.listen()
-screen.onkey(go_up,'Up')
-screen.onkey(go_down,'Down')
+screen.onkey(right_paddle.move_up,'Up')
+screen.onkey(right_paddle.move_down,'Down')
+screen.onkey(left_paddle.move_up,'w')
+screen.onkey(left_paddle.move_down,'s')
+
+print(active_ball.x_cooldown)
 
 game_is_on=True
 while game_is_on:
+    active_ball.move()
+    active_ball.y_check()
+    if active_ball.x_cooldown < 1:
+        if active_ball.xcor() >= 330 and active_ball.distance(right_paddle) < 50:
+            active_ball.bounce_x()
+        elif active_ball.xcor() <= -330 and active_ball.distance(left_paddle) < 50:
+            active_ball.bounce_x()
+    else:
+        active_ball.x_cooldown-=1
     screen.update()
+    time.sleep(0.1)
 
 screen.exitonclick()
