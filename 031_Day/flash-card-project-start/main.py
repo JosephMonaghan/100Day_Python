@@ -10,7 +10,10 @@ BACK_LANG = "English"
 
 
 ##Get Data
-data = pandas.read_csv(filepath_or_buffer="./data/french_words.csv")
+try:
+    data = pandas.read_csv(filepath_or_buffer="./data/words_to_learn.csv")
+except FileNotFoundError:
+    data = pandas.read_csv(filepath_or_buffer="./data/french_words.csv")
 
 data_dict={}
 for row,val in data.iterrows():
@@ -35,6 +38,11 @@ def new_word():
         window.after_cancel(flipper)
         cards_complete = True 
 
+def write_learned_names():
+    global data_dict
+    write_data = pandas.DataFrame.from_dict(data_dict.items())
+    write_data.to_csv("./data/words_to_learn.csv",header=["French", "English"],index=False)
+
 
 def flip_card():
     canvas.itemconfig(active_card,image=card_back)
@@ -45,6 +53,7 @@ def right():
     global active_word, cards_complete
     if cards_complete == False:
         data_dict.pop(active_word[0])
+        write_learned_names()
         new_word()
 
 def wrong():
