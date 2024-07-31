@@ -1,0 +1,3363 @@
+{
+    "items": "50",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "Thinking of Buying Nvidia Stock? You Need to Hear What Elon Musk Just Said",
+            "url": "https://www.fool.com/investing/2024/07/29/thinking-of-buying-nvidia-stock-you-need-to-hear-w/",
+            "time_published": "20240730T001900",
+            "authors": [
+                "Jeremy Bowman"
+            ],
+            "summary": "The Tesla CEO had some kind words for Nvidia.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F784731%2Fartificial-intelligence-ai-robot-big-data-bull-market-stock-chart-getty.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.614606"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.209873,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.056011",
+                    "ticker_sentiment_score": "0.139917",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.76767",
+                    "ticker_sentiment_score": "0.246465",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.274628",
+                    "ticker_sentiment_score": "0.20421",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "A Solid Growth Stock That Not Enough People Are Talking About",
+            "url": "https://www.fool.com/investing/2024/07/29/a-solid-growth-stock-that-not-enough-people-are-ta/",
+            "time_published": "20240730T000700",
+            "authors": [
+                "Lawrence Nga"
+            ],
+            "summary": "This company has the ingredients to grow its business by 10 times.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F784395%2Fyoung-businesswoman-with-laptop-in-meeting-smiling.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.389112,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SHOP",
+                    "relevance_score": "0.049939",
+                    "ticker_sentiment_score": "0.233995",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.049939",
+                    "ticker_sentiment_score": "-0.11722",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.149038",
+                    "ticker_sentiment_score": "0.128844",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.099683",
+                    "ticker_sentiment_score": "0.239151",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TTD",
+                    "relevance_score": "0.468885",
+                    "ticker_sentiment_score": "0.481492",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "GameStop, Nvidia Short Seller Andrew Left Surrenders on Fraud Charges",
+            "url": "https://decrypt.co/242276/gamestop-nvidia-short-seller-andrew-left-surrenders-on-fraud-charges",
+            "time_published": "20240729T235215",
+            "authors": [
+                "Ryan Ozawa"
+            ],
+            "summary": "The activist short seller was in custody in California, CNBC reported.",
+            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/07/shutterstock_1384089728-gID_7.jpg",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.990999"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.062866,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.105604",
+                    "ticker_sentiment_score": "0.181015",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.209365",
+                    "ticker_sentiment_score": "0.318611",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.105604",
+                    "ticker_sentiment_score": "0.181015",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAL",
+                    "relevance_score": "0.105604",
+                    "ticker_sentiment_score": "0.181015",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GME",
+                    "relevance_score": "0.309539",
+                    "ticker_sentiment_score": "-0.177313",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Three Stocks: Tesla, ON Semiconductor, and McDonald's",
+            "url": "https://moneymorning.com/2024/07/29/three-stocks-tesla-on-semiconductor-and-mcdonalds/",
+            "time_published": "20240729T203302",
+            "authors": [
+                "Nick Riso"
+            ],
+            "summary": "Tesla Tesla ( TSLA ) surged 5.6% today, riding on the back of two major analyst statements. Piper Sandler highlighted Tesla's potential milestone achievement with its latest full self-driving ( FSD ) software version, garnering positive reviews on social media.",
+            "banner_image": "https://moneymorning.com/wp-content/blogs.dir/1/files/2024/07/pexels-weekendplayer-187041-1200x900.jpg",
+            "source": "Money Morning",
+            "category_within_source": "RSS",
+            "source_domain": "moneymorning.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.998663"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.291612,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.328091",
+                    "ticker_sentiment_score": "0.361852",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MDNDF",
+                    "relevance_score": "0.222327",
+                    "ticker_sentiment_score": "0.443443",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.056275",
+                    "ticker_sentiment_score": "0.194974",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ON",
+                    "relevance_score": "0.056275",
+                    "ticker_sentiment_score": "0.157946",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Short seller Andrew Left surrenders on securities fraud charges in L.A., due in court",
+            "url": "https://www.cnbc.com/2024/07/29/andrew-left-citron-capital-securities-fraud-los-angeles.html",
+            "time_published": "20240729T203037",
+            "authors": [],
+            "summary": "A lawyer for Andrew Left predicted that the securities fraud prosecution against the Citron Capital boss will fail for multiple reasons.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999186"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": -0.130235,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.056407",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ROKU",
+                    "relevance_score": "0.056407",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BYND",
+                    "relevance_score": "0.056407",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.056407",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAL",
+                    "relevance_score": "0.056407",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "0JDB",
+                    "relevance_score": "0.056407",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GE",
+                    "relevance_score": "0.056407",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tesla Analyst Says Full Self-Driving 'Matters More Than Anything Else,' Latest Version Is 'Revolutionary,' Will Take Stock To $300 - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/07/40018956/tesla-analyst-says-full-self-driving-matters-more-than-anything-else-latest-version",
+            "time_published": "20240729T174225",
+            "authors": [
+                "Adam Eckert"
+            ],
+            "summary": "Piper Sandler believes Tesla Inc TSLA may have solved the autonomous vehicle puzzle. Despite CEO Elon Musk's track record of overpromising, the analyst highlighted the latest version of Tesla's Full Self-Driving as the real deal.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/29/0x0-ModelS-11.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.066521,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.704114",
+                    "ticker_sentiment_score": "0.026713",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Elon Musk Has 'A Soft Spot For Dogecoin,' Warns Followers: 'If You See Me Pumping Crypto, It's Not Me'",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/24/07/40018603/elon-musk-has-a-soft-spot-for-dogecoin-warns-followers-if-you-see-me-pumping-crypto-its-no",
+            "time_published": "20240729T172842",
+            "authors": [
+                "Murtuza Merchant"
+            ],
+            "summary": "Tech magnate Elon Musk has shared his thoughts on cryptocurrency, acknowledging some merit in Bitcoin BTC/USD and expressing a fondness for Dogecoin DOGE/USD. What Happened: In an appearance on the X Takeover podcast over the weekend, Musk addressed his views on digital currencies.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/29/COVID-19-Cases-To-Drop-to-Near-Zero-By-A.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.307119,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.09439",
+                    "ticker_sentiment_score": "-0.109297",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.446742",
+                    "ticker_sentiment_score": "0.505956",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.446742",
+                    "ticker_sentiment_score": "0.613481",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Why Tesla Stock Raced Ahead 5% on Monday",
+            "url": "https://www.fool.com/investing/2024/07/29/why-tesla-stock-raced-ahead-5-on-monday/",
+            "time_published": "20240729T171739",
+            "authors": [
+                "Rich Smith"
+            ],
+            "summary": "Can you wait six years for Tesla's profits to grow again?",
+            "banner_image": "https://g.foolcdn.com/editorial/images/785034/lights-streak-down-a-red-tesla-electric-car-racing-down-the-highway.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.232492,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.123526",
+                    "ticker_sentiment_score": "0.149327",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.879912",
+                    "ticker_sentiment_score": "0.375594",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Should You Buy the Dip in \"Mag 7\" and Big Tech ETFs?",
+            "url": "https://www.zacks.com/stock/news/2311237/should-you-buy-the-dip-in-mag-7-and-big-tech-etfs",
+            "time_published": "20240729T170000",
+            "authors": [
+                "Sanghamitra Saha"
+            ],
+            "summary": "There was a tech slump last week due to an apparent \"AI Fatigue.\" Is it time to buy the dip in \"Mag 7\" and Big Tech ETFs?",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/22/2547.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999606"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.714479"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.069408,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.095517",
+                    "ticker_sentiment_score": "0.036086",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.142847",
+                    "ticker_sentiment_score": "0.18567",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.18967",
+                    "ticker_sentiment_score": "-0.019047",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.142847",
+                    "ticker_sentiment_score": "-0.015483",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.142847",
+                    "ticker_sentiment_score": "-0.064911",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.047844",
+                    "ticker_sentiment_score": "-0.087975",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AWON",
+                    "relevance_score": "0.047844",
+                    "ticker_sentiment_score": "-0.066811",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.047844",
+                    "ticker_sentiment_score": "0.163743",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.18967",
+                    "ticker_sentiment_score": "-0.018766",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Small Caps Beat Nvidia, Amazon, And Tesla; Profiting From Trump's Plan To Drive Bitcoin To The Moon - Apple  ( NASDAQ:AAPL ) ",
+            "url": "https://www.benzinga.com/24/07/40017838/small-caps-beat-nvidia-amazon-and-tesla-profiting-from-trumps-plan-to-drive-bitcoin-to-the-moon",
+            "time_published": "20240729T165923",
+            "authors": [
+                "The Arora Report"
+            ],
+            "summary": "To gain an edge, this is what you need to know today. Please click here for an enlarged chart comparing iShares Russell 2000 ETF IWM to the Magnificent Seven stocks Apple Inc AAPL, Amazon.com, Inc. AMZN, Alphabet Inc Class C GOOG, Meta Platforms Inc META, Microsoft Corp MSFT, NVIDIA Corp NVDA, ...",
+            "banner_image": "https://cdn.benzinga.com/files/0d421cf1-c653-444b-9aa2-d9e5b7437b8b.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.996718"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.283424,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.178021",
+                    "ticker_sentiment_score": "0.241076",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.178021",
+                    "ticker_sentiment_score": "0.241076",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.178021",
+                    "ticker_sentiment_score": "0.241076",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.178021",
+                    "ticker_sentiment_score": "0.241076",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.178021",
+                    "ticker_sentiment_score": "0.071438",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.178021",
+                    "ticker_sentiment_score": "0.241076",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.059785",
+                    "ticker_sentiment_score": "0.349397",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.119235",
+                    "ticker_sentiment_score": "0.066403",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ON Semiconductor Posts Upbeat Earnings, Joins Oil States International, CommScope Holding And Other Big Stocks Moving Higher On Monday - Aehr Test Systems  ( NASDAQ:AEHR ) , Meta Data  ( NYSE:AIU ) ",
+            "url": "https://www.benzinga.com/news/24/07/40015083/on-semiconductor-posts-upbeat-earnings-joins-oil-states-international-commscope-holding-and-other-bi",
+            "time_published": "20240729T150955",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "U.S. stocks were mixed, with the Dow Jones index falling more than 100 points on Monday. Shares of ON Semiconductor Corp ON rose sharply during Monday's session after the company reported better-than-expected second quarter financial results.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/29/xrdDAFpQHAbOpo2-j8265628418780073248-t23.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.938793"
+                }
+            ],
+            "overall_sentiment_score": 0.254718,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MXL",
+                    "relevance_score": "0.195814",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SHYF",
+                    "relevance_score": "0.195814",
+                    "ticker_sentiment_score": "0.277138",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FL",
+                    "relevance_score": "0.195814",
+                    "ticker_sentiment_score": "0.063037",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.195814",
+                    "ticker_sentiment_score": "-0.044025",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AIU",
+                    "relevance_score": "0.195814",
+                    "ticker_sentiment_score": "0.411027",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AEHR",
+                    "relevance_score": "0.195814",
+                    "ticker_sentiment_score": "0.447571",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "SERV",
+                    "relevance_score": "0.195814",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COMM",
+                    "relevance_score": "0.195814",
+                    "ticker_sentiment_score": "0.288996",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.290033",
+                    "ticker_sentiment_score": "-0.229373",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "NIPG",
+                    "relevance_score": "0.195814",
+                    "ticker_sentiment_score": "0.400374",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "OSCR",
+                    "relevance_score": "0.195814",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CSTL",
+                    "relevance_score": "0.195814",
+                    "ticker_sentiment_score": "0.501186",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "OIS",
+                    "relevance_score": "0.195814",
+                    "ticker_sentiment_score": "0.475993",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "ON",
+                    "relevance_score": "0.380012",
+                    "ticker_sentiment_score": "0.103933",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ZIM",
+                    "relevance_score": "0.290033",
+                    "ticker_sentiment_score": "0.273473",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Market Clubhouse Morning Memo - July 29th, 2024  ( Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA )  - Alphabet  ( NASDAQ:GOOGL ) , Apple  ( NASDAQ:AAPL ) ",
+            "url": "https://www.benzinga.com/24/07/40013656/market-clubhouse-morning-memo-july-29th-2024-trade-strategy-for-spy-qqq-aapl-msft-nvda-googl-meta-an",
+            "time_published": "20240729T142352",
+            "authors": [
+                "RIPS"
+            ],
+            "summary": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA. Our proprietary formula, exclusive to Market Clubhouse, dictates these price levels. This dynamic equation takes into account price, volume, and options flow.",
+            "banner_image": "https://cdn.benzinga.com/files/market-clubhouse-morning-memo_261.png?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.723405"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.086911,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.126119",
+                    "ticker_sentiment_score": "0.074985",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.031654",
+                    "ticker_sentiment_score": "0.074888",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.157278",
+                    "ticker_sentiment_score": "-0.091318",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.094762",
+                    "ticker_sentiment_score": "0.130141",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.126119",
+                    "ticker_sentiment_score": "0.156572",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Bill Gates' Ex-Wife Reveals She Shares Jeff Bezos' Ex-Wife MacKenzie Scott's Parenting Style: 'She Was Trying To Raise Her Kids, Literally Just Down The Street From Me, In Essentially The Same Way'",
+            "url": "https://www.benzinga.com/news/24/07/40013038/bill-gates-ex-wife-reveals-she-shares-jeff-bezos-ex-wife-mackenzie-scotts-parenting-style-she-was-tr",
+            "time_published": "20240729T140038",
+            "authors": [
+                "Benzinga Neuro"
+            ],
+            "summary": "Philanthropist and Bill Gates' ex-wife Melinda French Gates disclosed that she and MacKenzie Scott, the former spouse of Amazon founder Jeff Bezos, have \"similar parenting philosophies.\" The interview was published on Sunday, July 28, 2024.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/29/The-Transformative-Power-Of-Access-To-Co.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.197843,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NYT",
+                    "relevance_score": "0.09989",
+                    "ticker_sentiment_score": "0.152206",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.09989",
+                    "ticker_sentiment_score": "-0.053345",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.09989",
+                    "ticker_sentiment_score": "-0.0577",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "What's Ahead for \"Mag 7\" ETFs in Q2 Earnings After Sell-Off?",
+            "url": "https://www.zacks.com/stock/news/2310973/whats-ahead-for-mag-7-etfs-in-q2-earnings-after-sell-off",
+            "time_published": "20240729T140000",
+            "authors": [
+                "Sweta Killa"
+            ],
+            "summary": "\"Magnificent 7\" has lost its steam in recent weeks. Can second-quarter earnings bring back the momentum?",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default208.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.299659,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.131284",
+                    "ticker_sentiment_score": "0.102792",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.032961",
+                    "ticker_sentiment_score": "-0.041025",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.195814",
+                    "ticker_sentiment_score": "0.233601",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.259037",
+                    "ticker_sentiment_score": "0.207628",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.131284",
+                    "ticker_sentiment_score": "-0.029223",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.098659",
+                    "ticker_sentiment_score": "0.174312",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.163687",
+                    "ticker_sentiment_score": "0.166537",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "US Expresses 'Serious Concern' As Both Venezuelan President Nicolas Maduro And Opposition Claim Election Win",
+            "url": "https://www.benzinga.com/news/24/07/40012327/us-expresses-serious-concern-as-both-venezuelan-president-nicolas-maduro-and-opposition-claim-electi",
+            "time_published": "20240729T133112",
+            "authors": [
+                "Benzinga Neuro"
+            ],
+            "summary": "In a recent development, Anthony Blinken, the U.S. Secretary of State, has raised 'serious concerns' regarding the Venezuelan presidential election results. Both the incumbent President Nicolas Maduro and the opposition candidate have claimed victory in the election.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/29/Venezuela-map.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.034221,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.114682",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "3 Reasons to Buy This Artificial Intelligence  ( AI )  Stock Hand Over Fist  ( Hint: It's Not Nvidia ) ",
+            "url": "https://www.fool.com/investing/2024/07/29/3-reasons-to-buy-artificial-intelligence-stock/",
+            "time_published": "20240729T133000",
+            "authors": [
+                "Johnny Rice"
+            ],
+            "summary": "Meta has a lot to offer.",
+            "banner_image": "https://media.ycharts.com/charts/51cd02640767bfcb515f0fb3e769c63a.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.818451"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.263144,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.056943",
+                    "ticker_sentiment_score": "0.139171",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.224903",
+                    "ticker_sentiment_score": "0.290594",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.056943",
+                    "ticker_sentiment_score": "-0.043387",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.056943",
+                    "ticker_sentiment_score": "-0.043387",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Time to Bet Against Elon Musk and Tesla?",
+            "url": "https://www.fool.com/investing/2024/07/29/time-to-bet-against-elon-musk-and-tesla/",
+            "time_published": "20240729T132927",
+            "authors": [
+                "Neil Rozenbaum"
+            ],
+            "summary": "Here's everything you need to know about the electric vehicle maker's week.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/784996/tesla-building-with-tesla-logo-and-two-teslas-in-front.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.0,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.978984",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tesla, Inc.  ( TSLA )  is Attracting Investor Attention: Here is What You Should Know",
+            "url": "https://www.zacks.com/stock/news/2310656/tesla-inc-tsla-is-attracting-investor-attention-here-is-what-you-should-know",
+            "time_published": "20240729T130015",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Zacks.com users have recently been watching Tesla (TSLA) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default19.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999999"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.503496"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.257252,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.487546",
+                    "ticker_sentiment_score": "0.158872",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Senior Tesla Executive Reveals Cybertruck Range Extender Will Not Be Removable To Avoid Safety Risks - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/news/24/07/40009883/senior-tesla-executive-reveals-cybertruck-range-extender-will-not-be-removable-to-avoid-safety-risks",
+            "time_published": "20240729T123608",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "Cybertruck lead engineer Wes Morrill on Saturday said that the range extender offered by Tesla Inc. for the stainless steel truck will not be removable by vehicle owners but structurally mounted owing to safety concerns.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/29/Tesla-Cybertruck_1.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.147012,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.70655",
+                    "ticker_sentiment_score": "0.2382",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "After Mulling Tesla Catchup Plan, Nissan Slashes Production In Japanese Plant Due To Falling US Demand - BYD  ( OTC:BYDDF ) , BYD  ( OTC:BYDDY ) ",
+            "url": "https://www.benzinga.com/news/24/07/40009579/after-mulling-tesla-catchup-plan-nissan-slashes-production-in-japanese-plant-due-to-falling-us-deman",
+            "time_published": "20240729T122450",
+            "authors": [
+                "Benzinga Neuro"
+            ],
+            "summary": "In response to weakening demand in the U.S., Nissan Motor Co., Ltd. NSANY has significantly curtailed production at its main Japanese plant, insiders reveal. What Happened: Nissan has slashed its planned production by a third at its Kyushu plant in southwest Japan, Reuters reported on Monday.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/29/Kirov--Russia---March-14--2018-Cars-In-S.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.04088,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TM",
+                    "relevance_score": "0.192694",
+                    "ticker_sentiment_score": "0.041242",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.192694",
+                    "ticker_sentiment_score": "0.025138",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BYDDF",
+                    "relevance_score": "0.192694",
+                    "ticker_sentiment_score": "0.025138",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.097062",
+                    "ticker_sentiment_score": "-0.036489",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NSANF",
+                    "relevance_score": "0.097062",
+                    "ticker_sentiment_score": "-0.161752",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "HMC",
+                    "relevance_score": "0.285526",
+                    "ticker_sentiment_score": "0.11868",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Dogecoin Heading To $0.30? 'Good One If You Want To Capture Some Of The Meme Mania,' Top Trader Says",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/24/07/40009039/dogecoin-heading-to-0-30-good-one-if-you-want-to-capture-some-of-the-meme-mania-top-trader",
+            "time_published": "20240729T121008",
+            "authors": [
+                "Khyathi Dalal"
+            ],
+            "summary": "Dogecoin's DOGE/USD chart patterns and increasing bullish sentiment fueled by former President Trump prompted traders to predict a price rally. What Happened: Prominent trader Altcoin Sherpa sees Dogecoin as a great coin to own, even though its returns will not be the same as the last cycle.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/29/dogecoin-shutter5.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.281955,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.115787",
+                    "ticker_sentiment_score": "0.178115",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.229149",
+                    "ticker_sentiment_score": "0.237152",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.691995",
+                    "ticker_sentiment_score": "0.430153",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Best ETFs of Last Week",
+            "url": "https://www.zacks.com/stock/news/2310551/best-etfs-of-last-week",
+            "time_published": "20240729T120000",
+            "authors": [
+                "Sanghamitra Saha"
+            ],
+            "summary": "Wall Street offered a mixed performance last week.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default280.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99737"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.576289"
+                }
+            ],
+            "overall_sentiment_score": 0.161774,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BLK",
+                    "relevance_score": "0.090816",
+                    "ticker_sentiment_score": "0.278001",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GERN",
+                    "relevance_score": "0.090816",
+                    "ticker_sentiment_score": "0.133837",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.224487",
+                    "ticker_sentiment_score": "-0.06577",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TWST",
+                    "relevance_score": "0.090816",
+                    "ticker_sentiment_score": "0.11846",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.090816",
+                    "ticker_sentiment_score": "0.228533",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Nasdaq, S&P 500 To Start New Week In The Green: What's Driving Sentiment - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) , SPDR S&P 500  ( ARCA:SPY ) ",
+            "url": "https://www.benzinga.com/news/earnings/24/07/40008162/us-stocks-look-to-extend-gains-ahead-of-key-tech-earnings-fomc-meeting-analyst-says-this-could-serv",
+            "time_published": "20240729T114326",
+            "authors": [
+                "Shanthi Rexaline"
+            ],
+            "summary": "Index futures trading indicates cautious optimism as traders anticipate a busy week, with a slew of earnings reports, the two-day Federal Open Market Committee meeting starting Tuesday, and Friday's non-farm payrolls report.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/29/Icahn-Enterprises-L-P.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.986714"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.838487"
+                }
+            ],
+            "overall_sentiment_score": 0.076552,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.085173",
+                    "ticker_sentiment_score": "-0.020376",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.042647",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.085173",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LSCC",
+                    "relevance_score": "0.085173",
+                    "ticker_sentiment_score": "0.097466",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MDNDF",
+                    "relevance_score": "0.042647",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RMBS",
+                    "relevance_score": "0.085173",
+                    "ticker_sentiment_score": "0.097466",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SANM",
+                    "relevance_score": "0.085173",
+                    "ticker_sentiment_score": "0.097466",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.042647",
+                    "ticker_sentiment_score": "0.211069",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FFIV",
+                    "relevance_score": "0.085173",
+                    "ticker_sentiment_score": "0.097466",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.085173",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MCD",
+                    "relevance_score": "0.085173",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.085173",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ABT",
+                    "relevance_score": "0.085173",
+                    "ticker_sentiment_score": "-0.306488",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.085173",
+                    "ticker_sentiment_score": "-0.020376",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TLRY",
+                    "relevance_score": "0.085173",
+                    "ticker_sentiment_score": "0.097466",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LPLA",
+                    "relevance_score": "0.042647",
+                    "ticker_sentiment_score": "0.095623",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.127456",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ON",
+                    "relevance_score": "0.042647",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.085173",
+                    "ticker_sentiment_score": "-0.182795",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "PATH FRAUD LAWSUIT: UiPath, Inc.  ( NYSE:PATH )  Shareholders are Notified that BFA Law has Sued the Company for Securities Fraud; Contact the Firm before Court Deadline - UiPath  ( NYSE:PATH ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/07/g40007693/path-fraud-lawsuit-uipath-inc-nyse-path-shareholders-are-notified-that-bfa-law-has-sued-the-compan",
+            "time_published": "20240729T111900",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, July 29, 2024 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces it has filed a lawsuit against UiPath, Inc. ( \"UiPath\" or the \"Company\" ) PATH and certain of the Company's senior executives.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.929393"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.041465,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PATH",
+                    "relevance_score": "0.553595",
+                    "ticker_sentiment_score": "-0.08255",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.060694",
+                    "ticker_sentiment_score": "0.158145",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "TDC FRAUD LAWSUIT: Teradata Corp.  ( NYSE:TDC )  Shareholders are Notified that the Company is Being Sued for Securities Fraud; Contact BFA Law if You Suffered Losses - Teradata  ( NYSE:TDC ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/07/g40007585/tdc-fraud-lawsuit-teradata-corp-nyse-tdc-shareholders-are-notified-that-the-company-is-being-sued-",
+            "time_published": "20240729T111600",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, July 29, 2024 ( GLOBE NEWSWIRE ) -- Top law firm Bleichmar Fonti & Auld LLP announces the upcoming August 13, 2024 deadline in the Teradata Corp. TDC securities class action lawsuit. If you invested in Teradata, you are encouraged to submit your information at ...",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.142731,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TDC",
+                    "relevance_score": "0.780804",
+                    "ticker_sentiment_score": "0.149716",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.081552",
+                    "ticker_sentiment_score": "0.162166",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "MXL FRAUD INVESTIGATION: BFA Law has Initiated a Securities Fraud Investigation into MaxLinear, Inc.  ( NASDAQ:MXL ) ; Contact the Firm if You Suffered Losses - MaxLinear  ( NASDAQ:MXL ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/07/g40007584/mxl-fraud-investigation-bfa-law-has-initiated-a-securities-fraud-investigation-into-maxlinear-inc-",
+            "time_published": "20240729T111600",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, July 29, 2024 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces an investigation into MaxLinear, Inc. MXL for potential violations of the federal securities laws.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.146181,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MXL",
+                    "relevance_score": "0.765728",
+                    "ticker_sentiment_score": "0.036163",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.105141",
+                    "ticker_sentiment_score": "0.172392",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "CRM FRAUD INVESTIGATION: Salesforce, Inc.  ( NYSE:CRM )  Shareholders with Losses are Notified that BFA Law is Investigating the Company for Securities Fraud and Should Contact the Firm - Salesforce  ( NYSE:CRM ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/07/g40007583/crm-fraud-investigation-salesforce-inc-nyse-crm-shareholders-with-losses-are-notified-that-bfa-law",
+            "time_published": "20240729T111600",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, July 29, 2024 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces an investigation into Salesforce, Inc. CRM for potential violations of the federal securities laws.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.203365,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.102888",
+                    "ticker_sentiment_score": "0.171194",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "MDB FRAUD LAWSUIT: MongoDB, Inc.  ( Nasdaq:MDB )  Shareholders are Notified that the Company is Being Sued for Securities Fraud; Contact BFA Law if You Suffered Losses - MongoDB  ( NASDAQ:MDB ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/07/g40007548/mdb-fraud-lawsuit-mongodb-inc-nasdaq-mdb-shareholders-are-notified-that-the-company-is-being-sued-",
+            "time_published": "20240729T111400",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, July 29, 2024 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces a lawsuit has been filed against MongoDB, Inc. ( \"MongoDB\" or the \"Company\" ) MDB and certain of the Company's senior executives.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.858979"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.19533,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MDB",
+                    "relevance_score": "0.526267",
+                    "ticker_sentiment_score": "0.221124",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.071357",
+                    "ticker_sentiment_score": "0.159542",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "As Tesla Stock Reels After A Rough Week Following Earnings, Top Analyst Defends Elon Musk's Ambitions For EV Giant Beyond Cars: 'Investors Should Not Overlook Tesla's Other Plays\u2026' - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/07/40007545/as-tesla-stock-reels-after-a-rough-week-following-earnings-top-analyst-defends-elon",
+            "time_published": "20240729T111346",
+            "authors": [
+                "Navdeep Yadav"
+            ],
+            "summary": "Tesla Inc. TSLA had a challenging last week as bulls turned bearish after Elon Musk failed to soothe investor worries during the earnings call. However, a top Wall Street analyst has stood by the company's stock price target, shifting the focus to the potential value of Tesla's non-automotive ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/29/Tesla-South-Korea.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.904684"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.151457,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "OPTGF",
+                    "relevance_score": "0.049019",
+                    "ticker_sentiment_score": "0.04499",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.049019",
+                    "ticker_sentiment_score": "0.193973",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.64354",
+                    "ticker_sentiment_score": "0.183357",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "FIVE FRAUD INVESTIGATION: Five Below, Inc.  ( Nasdaq:FIVE )  Shareholders with Losses are Notified that BFA Law is Investigating the Company for Securities Fraud and Should Contact the Firm - Five Below  ( NASDAQ:FIVE ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/07/g40007542/five-fraud-investigation-five-below-inc-nasdaq-five-shareholders-with-losses-are-notified-that-bfa",
+            "time_published": "20240729T111300",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, July 29, 2024 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces an investigation into Five Below, Inc. FIVE for potential violations of the federal securities laws.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.172533,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FIVE",
+                    "relevance_score": "0.766141",
+                    "ticker_sentiment_score": "0.130382",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.094762",
+                    "ticker_sentiment_score": "0.16724",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "DXCM INVESTIGATION NEWS: DexCom, Inc.  ( NASDAQ:DXCM )  is being Investigated for Securities Fraud by BFA Law; Investors with Losses are Notified to Contact the Firm - DexCom  ( NASDAQ:DXCM ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/07/g40007486/dxcm-investigation-news-dexcom-inc-nasdaq-dxcm-is-being-investigated-for-securities-fraud-by-bfa-l",
+            "time_published": "20240729T111100",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, July 29, 2024 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces an investigation into DexCom, Inc. DXCM for potential violations of the federal securities laws.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.176903,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DXCM",
+                    "relevance_score": "0.727604",
+                    "ticker_sentiment_score": "0.133054",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.097062",
+                    "ticker_sentiment_score": "0.168299",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "CAE FRAUD LAWSUIT: CAE, Inc.  ( NYSE:CAE )  Shareholders are Notified that BFA Law has Sued the Company for Securities Fraud; Contact the Firm before Court Deadline - CAE  ( NYSE:CAE ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/07/g40007466/cae-fraud-lawsuit-cae-inc-nyse-cae-shareholders-are-notified-that-bfa-law-has-sued-the-company-for",
+            "time_published": "20240729T110900",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, July 29, 2024 ( GLOBE NEWSWIRE ) -- Bleichmar Fonti & Auld LLP ( \"BFA\" ) announces that it has filed a class action lawsuit for violations of the federal securities laws against CAE Inc. ( \"CAE\" or the \"Company\" ) CAE and certain of the Company's senior executives.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.163725,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CAE",
+                    "relevance_score": "0.751437",
+                    "ticker_sentiment_score": "0.161855",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.051111",
+                    "ticker_sentiment_score": "0.157728",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ELAN FRAUD INVESTIGATION: Elanco  ( NYSE:ELAN )  Shareholders with Losses are Notified that BFA Law is Investigating the Company for Securities Fraud and Should Contact the Firm - Elanco Animal Health  ( NYSE:ELAN ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/07/g40007455/elan-fraud-investigation-elanco-nyse-elan-shareholders-with-losses-are-notified-that-bfa-law-is-in",
+            "time_published": "20240729T110800",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, July 29, 2024 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces an investigation into Elanco Animal Health Incorporated ELAN for potential violations of the federal securities laws.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.198641,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ELAN",
+                    "relevance_score": "0.418689",
+                    "ticker_sentiment_score": "0.157126",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.087824",
+                    "ticker_sentiment_score": "0.164353",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Xiaomi Seeks Major EV Expansion, Acquires Land For $116M - Xiaomi  ( OTC:XIACF ) ",
+            "url": "https://www.benzinga.com/news/24/07/40007322/xiaomi-seeks-major-ev-expansion-acquires-land-for-116m",
+            "time_published": "20240729T110109",
+            "authors": [
+                "Anusuya Lahiri"
+            ],
+            "summary": "Xiaomi Corp has acquired a plot of land in Beijing for 842 million yuan ( $116 million ) to expand its electric vehicle ( EV ) production. This move comes after the early success of its debut sedan, signaling CEO Lei Jun's $10 billion plan to establish a strong presence in the EV sector.",
+            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2024/07/29045102/newplot-70.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.119094,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "XPEV",
+                    "relevance_score": "0.459624",
+                    "ticker_sentiment_score": "-0.109464",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.240489",
+                    "ticker_sentiment_score": "-0.132217",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XIACY",
+                    "relevance_score": "0.459624",
+                    "ticker_sentiment_score": "0.32913",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "LI",
+                    "relevance_score": "0.459624",
+                    "ticker_sentiment_score": "-0.109464",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Apple, Amazon, Microsoft, Meta Lead The Charge As Investors Bank On Tech Cheer For Rally's Reacceleration: Week Ahead In Earnings - SPDR S&P 500  ( ARCA:SPY ) ",
+            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/07/40006542/apple-amazon-microsoft-meta-lead-the-charge-as-investors-bank-on-tech-cheer-for-ral",
+            "time_published": "20240729T102511",
+            "authors": [
+                "Shanthi Rexaline"
+            ],
+            "summary": "The earnings reports of last week were a mixed bag, with some Tesla, Inc. TSLA, Alphabet, Inc. GOOGL GOOG and STMicroelectronics N.V. STM, among companies disappointing to the downside.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/29/The-Magnificent-Seven--7-Of-Largest-Us-T.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.858979"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.983605"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.142857"
+                }
+            ],
+            "overall_sentiment_score": 0.113434,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DD",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "-0.087364",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSTR",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.104835",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ANET",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LSCC",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.190156",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MDNDF",
+                    "relevance_score": "0.035035",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LOGI",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KHC",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "-0.087364",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ADM",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RNG",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ITW",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "STM",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "-0.089376",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DV",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "-0.089376",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SBUX",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TLRY",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.190156",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "EA",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AIG",
+                    "relevance_score": "0.104835",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DKNG",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MO",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "-0.087364",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HST",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BLCO",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "-0.087364",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SANM",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.190156",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SIRI",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AEP",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FSLR",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XOM",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SOFI",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CZR",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ARM",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BHC",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MAR",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "-0.087364",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CNK",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOLD",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "-0.087364",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MDLZ",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CVX",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "D",
+                    "relevance_score": "0.035035",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MBLY",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.035035",
+                    "ticker_sentiment_score": "0.05845",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FLR",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HTZ",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BUD",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.104835",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IBM",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.153656",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NCLH",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "-0.087364",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LRCX",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "X",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PINS",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BKNG",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WU",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ON",
+                    "relevance_score": "0.035035",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PYPL",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.104835",
+                    "ticker_sentiment_score": "-0.045353",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JBLU",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TDOC",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MGA",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OSK",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "-0.087364",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LYV",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VRTX",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SWKS",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MCD",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OPEN",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TMUS",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "-0.087364",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BZH",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QSR",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MGM",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ALB",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PG",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LGIH",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TEVA",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "-0.087364",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NET",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "REGN",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.070002",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Enlight Announces Financial Close on Atrisco Energy Storage Project",
+            "url": "https://www.globenewswire.com/news-release/2024/07/29/2920118/0/en/Enlight-Announces-Financial-Close-on-Atrisco-Energy-Storage-Project.html",
+            "time_published": "20240729T100100",
+            "authors": [
+                "Enlight Renewable Energy Ltd."
+            ],
+            "summary": "The financing package for the energy storage portion of the project includes over $400 million of loans and tax equity arranged by HSBC and U.S. Bank ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/261d2c6f-1d5d-41de-b6f0-7d833bae4f2e",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.1845,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CURN",
+                    "relevance_score": "0.018105",
+                    "ticker_sentiment_score": "0.058125",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ENLT",
+                    "relevance_score": "0.072326",
+                    "ticker_sentiment_score": "0.121857",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.018105",
+                    "ticker_sentiment_score": "0.116989",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.054277",
+                    "ticker_sentiment_score": "0.101771",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Enlight Announces Financial Close on Atrisco Energy Storage Project - Enlight Renewable Energy  ( NASDAQ:ENLT ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/07/g40005973/enlight-announces-financial-close-on-atrisco-energy-storage-project",
+            "time_published": "20240729T100100",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "Atrisco is one of Enlight's flagship projects in the U.S., combining 364 MW of solar generation capacity with 1.2 GWh of battery storage capacity, and is expected to reach full COD later this year The financial close for the Energy Storage Project completes the financing and tax equity ...",
+            "banner_image": "https://ml.globenewswire.com/media/261d2c6f-1d5d-41de-b6f0-7d833bae4f2e/small/image001-2-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.186768,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CURN",
+                    "relevance_score": "0.017969",
+                    "ticker_sentiment_score": "0.058061",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ENLT",
+                    "relevance_score": "0.05387",
+                    "ticker_sentiment_score": "0.116736",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.017969",
+                    "ticker_sentiment_score": "0.116892",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.05387",
+                    "ticker_sentiment_score": "0.101735",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Zacks Investment Ideas feature highlights: Alphabet and Tesla",
+            "url": "https://www.zacks.com/stock/news/2310475/zacks-investment-ideas-feature-highlights-alphabet-and-tesla",
+            "time_published": "20240729T095900",
+            "authors": [
+                "Zacks Investment Research"
+            ],
+            "summary": "Alphabet and Tesla have been highlighted in this Investment Ideas article.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/b9/441.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.928139"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.54554"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.385319,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.154455",
+                    "ticker_sentiment_score": "0.119863",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tesla, Alphabet, Apple, Meta and Microsoft are part of Zacks Earnings Preview",
+            "url": "https://www.zacks.com/stock/news/2310462/tesla-alphabet-apple-meta-and-microsoft-are-part-of-zacks-earnings-preview",
+            "time_published": "20240729T091200",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Chicago, IL - July 29, 2024 - Zacks.com releases the list of companies likely to issue earnings surprises. This week's list includes Tesla ( TSLA Quick QuoteTSLA - ) , Alphabet ( GOOGL Quick QuoteGOOGL - ) , Apple ( AAPL Quick QuoteAAPL - ) , Meta ( META Quick QuoteMETA - ) and Microsoft ( MSFT ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/23/489.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999996"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.026206,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.232661",
+                    "ticker_sentiment_score": "0.037681",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.047185",
+                    "ticker_sentiment_score": "0.023004",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.094204",
+                    "ticker_sentiment_score": "-0.024109",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.232661",
+                    "ticker_sentiment_score": "-0.040649",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.277433",
+                    "ticker_sentiment_score": "0.052545",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MA",
+                    "relevance_score": "0.047185",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MDNDF",
+                    "relevance_score": "0.047185",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SBUX",
+                    "relevance_score": "0.047185",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PG",
+                    "relevance_score": "0.047185",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PFE",
+                    "relevance_score": "0.047185",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BA",
+                    "relevance_score": "0.047185",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tesla CEO Elon Musk Gives Fresh Timeline For FSD Access On Cybertruck, Says 'It Should Be Coming Out In August' - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/news/24/07/40005002/tesla-ceo-elon-musk-gives-fresh-timeline-for-fsd-access-on-cybertruck-says-it-should-be-coming-out-i",
+            "time_published": "20240729T083101",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "Tesla Inc's TSLA Cybertruck customers may get access to its full self-driving ( FSD ) driver assistance technology in August, company CEO Elon Musk said on Sunday.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/29/Tesla-Cybertruck.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.155653,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.631282",
+                    "ticker_sentiment_score": "0.121555",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tesla Investor Who Significantly Reduced Stake Ready To Buy Back In? Here's What EV Maker Should Do Win His Confidence - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/07/40004926/tesla-investor-who-significantly-reduced-stake-ready-to-buy-back-in-heres-what-ev-m",
+            "time_published": "20240729T082436",
+            "authors": [
+                "Shanthi Rexaline"
+            ],
+            "summary": "Tesla, Inc. TSLA shares fell by over 8% during the week ending July 26, halting an upward trend that had been building since the company's quarterly deliveries report was released earlier in July.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/29/Seattle---July-17--2022-Tesla-Company-Si.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.929393"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.183457,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.541149",
+                    "ticker_sentiment_score": "0.267918",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Boeing Wins Space Mission Contracts Owing To Its 'Armies Of Lobbyists,' Says SpaceX CEO Elon Musk Amid Starliner Return Delay",
+            "url": "https://www.benzinga.com/news/24/07/40004587/boeing-wins-space-mission-contracts-owing-to-its-armies-of-lobbyists-says-spacex-ceo-elon-musk-amid",
+            "time_published": "20240729T074039",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "SpaceX CEO Elon Musk said on Saturday that its rival Boeing Co. is awarded government contracts in the space segment owing to their \"armies of lobbyists\" despite safety concerns around its commercial plane segment.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/29/Elon-Musk-Boeing-Starliner.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.019216,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BA",
+                    "relevance_score": "0.625544",
+                    "ticker_sentiment_score": "0.100927",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.078611",
+                    "ticker_sentiment_score": "0.03579",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Teradata Corp.  ( TDC )  Shareholders are Notified that the Company is Being Sued for Securities Fraud and Investors with Losses Should Contact BFA Law before Court Deadline",
+            "url": "https://markets.businessinsider.com/news/stocks/teradata-corp.-tdc-shareholders-are-notified-that-the-company-is-being-sued-for-securities-fraud-and-investors-with-losses-should-contact-bfa-law-before-court-deadline-1033604736",
+            "time_published": "20240729T073300",
+            "authors": [
+                "NEWSFILE"
+            ],
+            "summary": "Teradata Corp. (TDC) Shareholders are Notified that the Company is Being Sued for Securities Fraud and Investors with Losses Should Contact BFA Law before Court Deadline ...",
+            "banner_image": "https://api.newsfilecorp.com/newsinfo/217939/208",
+            "source": "Business Insider",
+            "category_within_source": "RSS",
+            "source_domain": "markets.businessinsider.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.149757,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TDC",
+                    "relevance_score": "0.781806",
+                    "ticker_sentiment_score": "0.212284",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.089129",
+                    "ticker_sentiment_score": "0.171186",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Salesforce, Inc.  ( CRM )  Shareholders are Notified that BFA Law is Investigating the Company for Securities Fraud and Should Contact the Firm if they Suffered Losses",
+            "url": "https://markets.businessinsider.com/news/stocks/salesforce-inc.-crm-shareholders-are-notified-that-bfa-law-is-investigating-the-company-for-securities-fraud-and-should-contact-the-firm-if-they-suffered-losses-1033604737",
+            "time_published": "20240729T073300",
+            "authors": [
+                "NEWSFILE"
+            ],
+            "summary": "Salesforce, Inc. (CRM) Shareholders are Notified that BFA Law is Investigating the Company for Securities Fraud and Should Contact the Firm if they Suffered Losses ...",
+            "banner_image": "https://api.newsfilecorp.com/newsinfo/217933/208",
+            "source": "Business Insider",
+            "category_within_source": "RSS",
+            "source_domain": "markets.businessinsider.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.162338,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.112532",
+                    "ticker_sentiment_score": "0.1834",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Elon Musk, Peter Thiel, Bill Ackman Not 'Philanthropists' According To Melinda French Gates: 'They Use Their Voice And Megaphones,' Draws Difference Between Old Billionaires Warren Buffett And Bill Gates",
+            "url": "https://www.benzinga.com/news/24/07/40004544/elon-musk-peter-thiel-bill-ackman-not-philanthropists-according-to-melinda-french-gates-they-use-the",
+            "time_published": "20240729T072729",
+            "authors": [
+                "Benzinga Neuro"
+            ],
+            "summary": "Melinda French Gates criticized the philanthropic efforts of billionaires like Tesla Inc. CEO Elon Musk and Palantir Technologies co-founder Peter Thiel, stating that they are not doing enough to give back to society.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/29/Elon-Musk-Melinda-Gates.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.133916,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NYT",
+                    "relevance_score": "0.089462",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.089462",
+                    "ticker_sentiment_score": "-0.132682",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.089462",
+                    "ticker_sentiment_score": "-0.132682",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PSHZF",
+                    "relevance_score": "0.089462",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Elon Musk Calls Venezuela Elections A 'Travesty' As Nicolas Maduro Wins Third Term Amid Fraud Allegations - Blinken Expresses 'Serious Concerns'",
+            "url": "https://www.benzinga.com/news/24/07/40003819/elon-musk-calls-venezuela-elections-a-travesty-as-nicolas-maduro-wins-third-term-amid-fraud-allegati",
+            "time_published": "20240729T060153",
+            "authors": [
+                "Benzinga Neuro"
+            ],
+            "summary": "Nicolas Maduro has secured a third term as the President of Venezuela. This outcome has sparked concerns about potential electoral fraud. What Happened: The National Electoral Council of Venezuela declared Maduro the winner with 51% of the vote, despite multiple exit polls predicting an ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/29/Nicolas-Maduro-shutter.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.126298,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.076847",
+                    "ticker_sentiment_score": "-0.232612",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Jim Cramer Says Tech Earnings Crucial Test For 'Great Rotation' Theory As Key Reports From Microsoft, Apple, Amazon, And Meta Loom On the Horizon - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",
+            "url": "https://www.benzinga.com/markets/equities/24/07/40003433/jim-cramer-says-tech-earnings-crucial-test-for-great-rotation-theory-as-key-reports-from-microso",
+            "time_published": "20240729T044657",
+            "authors": [
+                "Benzinga Neuro"
+            ],
+            "summary": "Jim Cramer, the host of CNBC's \"Mad Money,\" has highlighted the upcoming earnings reports from major tech companies as a critical turning point for the \"great rotation\" in the stock market. What Happened: Cramer, in his recent article, pointed out that the upcoming earnings reports from tech ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/29/earnings.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.972756"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.993781"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.101245,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.172097",
+                    "ticker_sentiment_score": "0.138634",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.485711",
+                    "ticker_sentiment_score": "-0.090144",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.172097",
+                    "ticker_sentiment_score": "0.138634",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.172097",
+                    "ticker_sentiment_score": "0.138634",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.255641",
+                    "ticker_sentiment_score": "-0.151552",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "UBER",
+                    "relevance_score": "0.172097",
+                    "ticker_sentiment_score": "0.1289",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tesla's Production Aspirations Underscored By Gary Black: 2.77M Vehicles By 2025 - Major Entry Into $30K Segment 'Significantly Underestimated By The Street' - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/markets/equities/24/07/40003200/teslas-production-aspirations-underscored-by-gary-black-2-77m-vehicles-by-2025-major-entry-into-",
+            "time_published": "20240729T033656",
+            "authors": [
+                "Benzinga Neuro"
+            ],
+            "summary": "Tesla Inc. TSLA is reportedly aiming to produce 2.77 million vehicles by 2025, a 50% increase from its 2023 production. This ambitious target includes the launch of new affordable models, according to Future Fund Managing Partner Gary Black.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/28/Tesla-South-Korea.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.744043"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.212215,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.663374",
+                    "ticker_sentiment_score": "0.397112",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Electric Vehicles Are Bleeding Insurers Money In This Key Market For Tesla And Other Auto Giants: Here's Why - BYD  ( OTC:BYDDF ) , BYD  ( OTC:BYDDY ) ",
+            "url": "https://www.benzinga.com/news/24/07/40002868/electric-vehicles-are-bleeding-insurers-money-in-this-key-market-for-tesla-and-other-auto-giants-her",
+            "time_published": "20240729T015651",
+            "authors": [
+                "Benzinga Neuro"
+            ],
+            "summary": "The rapid increase in the number of new energy vehicles in China has led to a financial conundrum for the country's insurers. The insurers are finding it challenging to make a profit from insuring these vehicles, despite charging higher premiums.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/28/electric-vehicle-shutter3.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.166612,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "XPEV",
+                    "relevance_score": "0.123209",
+                    "ticker_sentiment_score": "-0.039545",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.123209",
+                    "ticker_sentiment_score": "0.048841",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XIACY",
+                    "relevance_score": "0.06179",
+                    "ticker_sentiment_score": "0.01201",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NIO",
+                    "relevance_score": "0.123209",
+                    "ticker_sentiment_score": "0.142228",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "What's New In the Consumer Tech World Last Week? News That You Should Know  ( June 21-June 27, 2024 )  - Apple  ( NASDAQ:AAPL ) , Broadcom  ( NASDAQ:AVGO ) ",
+            "url": "https://www.benzinga.com/news/24/07/40001828/whats-new-in-the-consumer-tech-world-last-week-news-that-you-should-know-june-21-june-27-2024",
+            "time_published": "20240728T193955",
+            "authors": [
+                "Lekha Gupta"
+            ],
+            "summary": "Chen Nanxiang, chairman of the China Semiconductor Industry Association ( CSIA ) and head of Yangtze Memory Technologies Corporation ( YMTC ) , has predicted a significant surge in China's chip industry within the next three to five years.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/28/Crowstrike-Shutterstock.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.614606"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.043189,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.077218",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.077218",
+                    "ticker_sentiment_score": "0.224564",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.115602",
+                    "ticker_sentiment_score": "-0.037014",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.228789",
+                    "ticker_sentiment_score": "0.139037",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.439153",
+                    "ticker_sentiment_score": "0.014818",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.077218",
+                    "ticker_sentiment_score": "0.149058",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRWD",
+                    "relevance_score": "0.115602",
+                    "ticker_sentiment_score": "0.002449",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TXN",
+                    "relevance_score": "0.077218",
+                    "ticker_sentiment_score": "0.062715",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.115602",
+                    "ticker_sentiment_score": "-0.010507",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SNEJF",
+                    "relevance_score": "0.153715",
+                    "ticker_sentiment_score": "0.020964",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.077218",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.038655",
+                    "ticker_sentiment_score": "0.087777",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RBLX",
+                    "relevance_score": "0.077218",
+                    "ticker_sentiment_score": "-0.139036",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        }
+    ]
+}
