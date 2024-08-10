@@ -1,0 +1,28 @@
+{
+    "sheet1": [
+        {
+            "city": "Las Vegas",
+            "iataCode": "",
+            "lowestPrice": 300,
+            "id": 2
+        },
+        {
+            "city": "Bangkok",
+            "iataCode": "",
+            "lowestPrice": 300,
+            "id": 3
+        },
+        {
+            "city": "Cabo San Lucas",
+            "iataCode": "",
+            "lowestPrice": 300,
+            "id": 4
+        },
+        {
+            "city": "Honolulu",
+            "iataCode": "",
+            "lowestPrice": 300,
+            "id": 5
+        }
+    ]
+}
