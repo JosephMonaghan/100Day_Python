@@ -3,16 +3,19 @@
 from data_manager import DataManager
 from flight_search import FlightSearch
 from dotenv import load_dotenv
+from notification_manager import NotificationManager
 import os
-import requests
-import json
+import time
+
 
 load_dotenv()
 
 data_manager = DataManager(token=os.getenv("sheety_token"),user=os.getenv("username"))
 flight_search = FlightSearch()
+notification_manager = NotificationManager()
 
 iter=0
+price_list=[]
 for destination in data_manager.data:
     iter+=1
     if destination["iataCode"] == "":
@@ -20,21 +23,14 @@ for destination in data_manager.data:
         destination["iataCode"] = code
         data_manager.update_code(row_id=iter,code=code)
 
+    origin = "YVR"
+
+    dest_price = flight_search.get_price(origin=origin,destination=destination["iataCode"])
+    time.sleep(3)
+    price_list.append(dest_price)
 
 
-
-
-flight_url = "Base URL: test.api.amadeus.com/v1"
-dates_url = f"{flight_url}/shopping/flight-dates"
-
-flight_apikey = "AeWZBr78ZAKp5zrQTEKvLZB5q1hNfM7y"
-flight_apisecret = "GE1DWCtMwNlksytV"
-
-date_params = {
-    "origin": "YVR",
-    "destination": "LAS",
-    "departureDate": "2024-10-01,2024-12-31", #YYYY-MM-DD format, e.g. 2017-12-25. Ranges are specified with a comma and are inclusive
-    "duration": "4,8"
-}
-
+msg = notification_manager.compose_message(city_data=data_manager.data,price_list=price_list)
+print(msg)
+notification_manager.send_message(message=msg)
 

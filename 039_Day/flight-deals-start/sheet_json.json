@@ -2,25 +2,25 @@
     "sheet1": [
         {
             "city": "Las Vegas",
-            "iataCode": "",
+            "iataCode": "LAS",
             "lowestPrice": 300,
             "id": 2
         },
         {
             "city": "Bangkok",
-            "iataCode": "",
+            "iataCode": "BKK",
             "lowestPrice": 300,
             "id": 3
         },
         {
-            "city": "Cabo San Lucas",
-            "iataCode": "",
+            "city": "Los Angeles",
+            "iataCode": "BHL",
             "lowestPrice": 300,
             "id": 4
         },
         {
-            "city": "Honolulu",
-            "iataCode": "",
+            "city": "Toronto",
+            "iataCode": "YTO",
             "lowestPrice": 300,
             "id": 5
         }
