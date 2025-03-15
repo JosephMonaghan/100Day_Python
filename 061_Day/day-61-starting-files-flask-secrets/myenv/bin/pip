@@ -1,8 +1,0 @@
-#!/Users/josephmonaghan/Documents/100Day_Python/061_Day/day-61-starting-files-flask-secrets/myenv/bin/python3.12
-# -*- coding: utf-8 -*-
-import re
-import sys
-from pip._internal.cli.main import main
-if __name__ == '__main__':
-    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
-    sys.exit(main())
