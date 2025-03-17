@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Edit Rating</title>
+    {% from 'bootstrap5/form.html' import render_form %}
+  </head>
+
+  <body>
+    <h1>Edit Rating</h1>
+    Book name: {{book.title}}<br />
+    Author: {{book.author}}<br />
+    Old Rating: {{book.rating}} / 10 <br />
+    {{render_form(rating_form,novalidate=True)}}
+  </body>
+</html>
